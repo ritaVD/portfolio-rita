@@ -1,11 +1,19 @@
 {
-    "nombre": "Rita",
-    "apellidos": "Vicente",
-    "profesion": "estudiante",
+    "nombre": "Rita Vicente Dominguez",
     "idiomas": "Español y gallego nativo. Inglés B1",
     "idiomas(sin certificacion)": "Portugués básico",
     "educacion": "Bachillerato Científico en el IES Antón Alonso Ríos (Tomiño, Galicia) 2021-2024 ",
     "educación actual": "Técnico Superior de Desarrollo de Aplicaciones Web",
-    "experiencia laboral": "Voluntaria en un refugio de animales (Actual)"
+    "bio": "Bio",
+    "contacto": {
+        "direccion": "Granada",
+        "telefono": "98685454864",
+        "email": "ritavicdom@gmail.com"
+    },
+    "experiencia": [
+        {
+           "Refugio" : "Actualidad.Voluntaria en un refugio de animales"
+        }
+    ]
 
 }

@@ -1,0 +1,118 @@
+
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #eed6f7bd;
+}
+
+section {
+    max-width: 900px;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.hero {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    padding: 20px;
+    border-radius: 30px;
+    gap: 16px;
+    background-color: #bd81c6;
+    height: 50vh;
+}
+.nombre {
+    font-size: 72px;
+    line-height: 0;
+    color:#ffffff
+}
+.profesion{
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 100%;
+    color: #ffffff
+}
+.bio{
+    font-size: 15px;
+    line-height: 1.5;
+    color: #ffffff;
+}
+.apartado0{
+    color :#ffffff;
+    background-color: #b189be;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.proyecto{
+    padding: 10px;
+    width: fit-content;
+    background-color: #ffe0e0;
+    border-radius: 30px;
+    margin-bottom: 5px;
+}
+.proyecto{
+    padding: 10px;
+    width: fit-content;
+    background-color: #cebdd3;
+    border-radius: 30px;
+    margin-bottom: 5px;
+    
+}
+.proyecto:hover{
+    background-color: #fddce4;
+}
+.enlace-proyecto{
+    color: #ffffff;
+    text-decoration: none;
+}
+.enlace-proyecto:hover {
+    color: #ffc0cd;
+}
+
+.apartado1{
+    color :#ffffff;
+    background-color: #b189be;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 30px;
+}
+.experiencia{
+    padding: 16px;
+    border: 1px solid #c561d8;
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+.exp-titulo{
+    font-weight: 700;
+}
+.exp-fecha{
+    font-size: 14px;
+    color: #999;
+}
+.apartado2{
+    color:#ffffff;
+    background-color: #b189be;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 30px;
+}
+.habilidades p{
+    margin: 0;
+    width: fit-content;
+}
+.habilidades{
+    padding: 10px;
+    width: fit-content;
+    background-color: #dbcae086;
+    border-radius: 30px;
+    margin-bottom: 5px;
+    
+}
+.envoltura-habilidades{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}

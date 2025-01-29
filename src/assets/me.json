@@ -3,8 +3,9 @@
     "idiomas": "Español y gallego nativo. Inglés B1",
     "idiomas(sin certificacion)": "Portugués básico",
     "educacion": "Bachillerato Científico en el IES Antón Alonso Ríos (Tomiño, Galicia) 2021-2024 ",
-    "educación actual": "Técnico Superior de Desarrollo de Aplicaciones Web",
+    "educación actual": "Estudiante C.S de Desarrollo de Aplicaciones Web",
     "bio": "Bio",
+    "habilidades": ["Ingles B1"],
     "contacto": {
         "direccion": "Granada",
         "telefono": "98685454864",
@@ -12,8 +13,9 @@
     },
     "experiencia": [
         {
-           "Refugio" : "Actualidad.Voluntaria en un refugio de animales"
+           "Refugio" : "Actualidad. Voluntaria en un refugio de animales"
         }
     ]
+    
 
 }
